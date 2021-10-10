@@ -1,2 +1,3 @@
-# data_visualization_workshop
-Interactive Data Visualization with Python workshop for ITESI.
+# Taller de Visualización Interactiva de Datos con Python
+## Semana Tecnológica 2021, ISC
+
