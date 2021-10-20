@@ -12,6 +12,9 @@
 
 <hr>
 
+### Presentación del taller
+- [Google Slides](https://docs.google.com/presentation/d/1C93-DoPpJu8PrKJrFuVTuDjKKlUH2rUWpJS1fQrpL0Q/edit?usp=sharing)
+
 ### Configuración inicial
 
 - Google Colab
